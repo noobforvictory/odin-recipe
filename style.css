@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+div{
+    background-color: yellow;
+    text-align: center;
+    width: 100;
+    font-weight: bold;
+}
